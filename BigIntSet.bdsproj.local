@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020.06.12 14:58:52.455.pas,C:\Users\Asus\Documents\Borland Studio Projects\Unit1.pas=C:\Users\Asus\Documents\Borland Studio Projects\курсовая\Unit1.pas</Transaction>
+    <Transaction>2020.06.12 14:58:52.456.dfm,C:\Users\Asus\Documents\Borland Studio Projects\Unit1.dfm=C:\Users\Asus\Documents\Borland Studio Projects\курсовая\Unit1.dfm</Transaction>
+    <Transaction>2020.06.12 15:07:47.017.bdsproj,C:\Users\Asus\Documents\Borland Studio Projects\Project2.bdsproj=C:\Users\Asus\Documents\Borland Studio Projects\курсовая\Project2.bdsproj</Transaction>
+    <Transaction>2020.06.23 18:21:31.143.bdsproj,C:\Users\Asus\Documents\Borland Studio Projects\курсовая\Project2.bdsproj=C:\Users\Asus\Documents\Borland Studio Projects\курсовая\BigIntSet.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>
